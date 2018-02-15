@@ -1,4 +1,4 @@
 gunicorn
-Flask
-flask_restful
+flask_restful==0.3.6
+Flask==0.12.2
 flask.ext.jsonpify
