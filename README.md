@@ -1,8 +1,8 @@
 # Backend Deployed in OpenShift Online (Red Hat´s container applications platform)
 - Containers. POD
--- Python Flask
--- JSON
--- API REST
+- Python Flask
+- JSON
+- API REST
 
 # Tested with: 
 
