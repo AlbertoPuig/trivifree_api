@@ -1,7 +1,11 @@
-Backend Deployed in OpenShift Online (Red Hat´s container applications platform)
-Containers. POD
-Python Flask
-JSON
-API REST
+# Backend Deployed in OpenShift Online (Red Hat´s container applications platform)
+- Containers. POD
+-- Python Flask
+-- JSON
+-- API REST
 
-Tested with: trivifree_, console client, and trivifree_web (HTML5, CSS3, AJAX)
+# Tested with: 
+
+https://github.com/AlbertoPuig/trivifree.git (console web)
+and 
+https://github.com/AlbertoPuig/trivifree_web.git (HTML5, CSS3, AJAX)
