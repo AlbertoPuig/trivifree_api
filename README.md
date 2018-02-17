@@ -6,6 +6,6 @@
 
 # Tested with: 
 
-https://github.com/AlbertoPuig/trivifree.git (console web)
+https://github.com/AlbertoPuig/trivifree.git (console client)
 and 
-https://github.com/AlbertoPuig/trivifree_web.git (HTML5, CSS3, AJAX)
+https://github.com/AlbertoPuig/trivifree_web.git (web client: HTML5, CSS3, AJAX)
